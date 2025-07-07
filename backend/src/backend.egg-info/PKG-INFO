@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: backend
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.115.14
+Requires-Dist: langchain>=0.3.26
+Requires-Dist: langchain-groq>=0.3.5
+Requires-Dist: langgraph>=0.5.1
+Requires-Dist: pydantic-settings>=2.10.1
